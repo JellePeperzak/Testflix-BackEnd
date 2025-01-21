@@ -1,0 +1,6 @@
+ALTER TABLE experimentdata
+ADD COLUMN age SMALLINT, 
+ADD COLUMN gender VARCHAR(20),
+ADD COLUMN nationality VARCHAR(80),
+ADD COLUMN experience SMALLINT,
+ADD COLUMN consumption INT

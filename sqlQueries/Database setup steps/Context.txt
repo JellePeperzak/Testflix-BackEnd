@@ -1,0 +1,5 @@
+--- IMPORTANT ---
+A complete overview of all variables and the data types they have in the SQL database can be 
+found on Google Drive in the file called 'Database Overview'. 
+
+Every .sql file in this map is numbered, based on the order in which they were executed to setup the database.

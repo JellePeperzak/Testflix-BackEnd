@@ -1,0 +1,10 @@
+ALTER TABLE experimentdata
+ADD COLUMN task1_movie BOOLEAN,
+ADD COLUMN task1_series BOOLEAN,
+ADD COLUMN task1_search BOOLEAN,
+ADD COLUMN task2_movie BOOLEAN,
+ADD COLUMN task2_series BOOLEAN,
+ADD COLUMN task2_search BOOLEAN,
+ADD COLUMN task3_movie BOOLEAN,
+ADD COLUMN task3_series BOOLEAN,
+ADD COLUMN task3_search BOOLEAN

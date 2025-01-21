@@ -1,0 +1,101 @@
+imdb_id,tvdb_id,item_type,title,year,genres,runtime,actors,rating,rating_votecount,pg_rating,banner_url,season_count
+tt0111161,190,movie,The Shawshank Redemption,1994,Drama,142,"Tim Robbins,Morgan Freeman,Bob Gunton",9.3,2951537,16,https://artworks.thetvdb.com/banners/v4/movie/190/clearlogo/66b32486c894e.png,MOVIE
+tt0468569,116,movie,The Dark Knight,2008,"Action,Crime,Drama",152,"Christian Bale,Christian Bale,Heath Ledger",9.0,2932755,12,https://artworks.thetvdb.com/banners/v4/movie/116/clearlogo/61249a15beb63.png,MOVIE
+tt1375666,113,movie,Inception,2010,"Action,Adventure,Sci-Fi",148,"Leonardo DiCaprio,Joseph Gordon-Levitt,Elliot Page",8.8,2602797,12,UNAVAILABLE,MOVIE
+tt0137523,247,movie,Fight Club,1999,Drama,139,"Brad Pitt,Edward Norton,Meat Loaf",8.8,2383290,16,https://artworks.thetvdb.com/banners/v4/movie/247/clearlogo/66b376d54af19.png,MOVIE
+tt0109830,294,movie,Forrest Gump,1994,"Drama,Romance",142,"Tom Hanks,Gary Sinise,Michael Conner Humphreys",8.8,2309135,12,https://artworks.thetvdb.com/banners/v4/movie/294/clearlogo/612496152e6f9.png,MOVIE
+tt0110912,228,movie,Pulp Fiction,1994,"Crime,Drama",154,"John Travolta,Samuel L. Jackson,Bruce Willis",8.9,2266486,16,https://artworks.thetvdb.com/banners/v4/movie/228/clearlogo/6124a4b7f23d4.png,MOVIE
+tt0816692,131079,movie,Interstellar,2014,"Adventure,Drama,Sci-Fi",169,"Matthew McConaughey,John Lithgow,Timothée Chalamet",8.7,2174618,12,https://artworks.thetvdb.com/banners/v4/movie/131079/clearlogo/61bf0f9c6c521.png,MOVIE
+tt0133093,169,movie,The Matrix,1999,"Action,Sci-Fi",136,"Keanu Reeves,Laurence Fishburne,Hugo Weaving",8.7,2095633,16,https://artworks.thetvdb.com/banners/v4/movie/169/clearlogo/66b38b0a7c944.png,MOVIE
+tt0120737,107,movie,The Lord of the Rings: The Fellowship of the Ring,2001,"Action,Adventure,Drama",178,"Elijah Wood,Ian McKellen,Orlando Bloom",8.9,2050132,12,UNAVAILABLE,MOVIE
+tt0167260,74,movie,The Lord of the Rings: The Return of the King,2003,"Action,Adventure,Drama",201,"Elijah Wood,Viggo Mortensen,Ian McKellen",9.0,2020505,12,https://artworks.thetvdb.com/banners/v4/movie/74/clearlogo/612494287a56b.png,MOVIE
+tt1345836,222,movie,The Dark Knight Rises,2012,"Action,Drama,Thriller",164,"Christian Bale,Christian Bale,Tom Hardy",8.4,1862995,12,UNAVAILABLE,MOVIE
+tt0114369,268,movie,Se7en,1995,"Crime,Drama,Mystery",127,"Morgan Freeman,Brad Pitt,Kevin Spacey",8.6,1842802,16,https://artworks.thetvdb.com/banners/v4/movie/268/clearlogo/66b4623e4ddb8.png,MOVIE
+tt0167261,157,movie,The Lord of the Rings: The Two Towers,2002,"Action,Adventure,Drama",179,"Elijah Wood,Ian McKellen,Viggo Mortensen",8.8,1821645,12,https://artworks.thetvdb.com/banners/v4/movie/157/clearlogo/617df34f875e0.png,MOVIE
+tt1853728,289,movie,Django Unchained,2012,"Comedy,Drama,Western",165,"Jamie Foxx,Christoph Waltz,Leonardo DiCaprio",8.5,1733984,16,https://artworks.thetvdb.com/banners/v4/movie/194236/clearlogo/6150fb7ca000a.png,MOVIE
+tt0172495,419,movie,Gladiator,2000,"Action,Adventure,Drama",155,"Russell Crowe,Joaquin Phoenix,Oliver Reed",8.5,1663928,16,https://artworks.thetvdb.com/banners/v4/movie/419/clearlogo/617a3ceba2199.png,MOVIE
+tt0993846,389,movie,The Wolf of Wall Street,2013,"Biography,Comedy,Crime",180,"Leonardo DiCaprio,Jonah Hill,Matthew McConaughey",8.2,1625756,16,https://artworks.thetvdb.com/banners/v4/movie/389/clearlogo/6124f0f699f72.png,MOVIE
+tt0361748,397,movie,Inglourious Basterds,2009,"Adventure,Drama,War",153,"Brad Pitt,Eli Roth,Christoph Waltz",8.4,1622319,16,https://artworks.thetvdb.com/banners/v4/movie/397/clearlogo/66b32f941ff26.png,MOVIE
+tt0102926,15030,movie,The Silence of the Lambs,1991,"Crime,Drama,Thriller",118,"Anthony Hopkins,Scott Glenn,Ted Levine",8.6,1583081,16,https://artworks.thetvdb.com/banners/v4/movie/15030/clearlogo/617dfbcc68dd3.png,MOVIE
+tt7286456,7644,movie,Joker,2019,"Crime,Drama,Thriller",122,"Joaquin Phoenix,Robert De Niro,Brett Cullen",8.4,1548042,16,https://artworks.thetvdb.com/banners/v4/movie/7644/clearlogo/66aa3de5b25dc.png,MOVIE
+tt0120815,569,movie,Saving Private Ryan,1998,"Drama,War",169,"Tom Hanks,Matt Damon,Tom Sizemore",8.6,1525923,16,https://artworks.thetvdb.com/banners/v4/movie/569/clearlogo/617b552b26d78.png,MOVIE
+tt1130884,558,movie,Shutter Island,2010,"Drama,Mystery,Thriller",138,"Leonardo DiCaprio,Mark Ruffalo,Ben Kingsley",8.2,1496097,16,https://artworks.thetvdb.com/banners/v4/movie/558/clearlogo/66fcf8588bef6.png,MOVIE
+tt0108052,223,movie,Schindler's List,1993,"Biography,Drama,History",195,"Liam Neeson,Ralph Fiennes,Ben Kingsley",9.0,1480607,16,https://artworks.thetvdb.com/banners/v4/movie/223/clearlogo/6124e1db431f1.png,MOVIE
+tt0848228,31,movie,The Avengers,2012,"Action,Sci-Fi",143,"Robert Downey Jr.,Robert Downey Jr.,Chris Evans",8.0,1480218,12,https://artworks.thetvdb.com/banners/v4/movie/31/clearlogo/612495162a406.png,MOVIE
+tt0482571,302,movie,The Prestige,2006,"Drama,Mystery,Sci-Fi",130,"Christian Bale,Hugh Jackman,Michael Caine",8.5,1470932,12,https://artworks.thetvdb.com/banners/v4/movie/302/clearlogo/66b469f575083.png,MOVIE
+tt0407887,590,movie,The Departed,2006,"Crime,Drama,Thriller",151,"Leonardo DiCaprio,Matt Damon,Jack Nicholson",8.5,1448216,16,https://artworks.thetvdb.com/banners/v4/movie/590/clearlogo/6124dc988bd62.png,MOVIE
+tt0120689,308,movie,The Green Mile,1999,"Crime,Drama,Fantasy",189,"Tom Hanks,Michael Clarke Duncan,David Morse",8.6,1438515,16,https://artworks.thetvdb.com/banners/v4/movie/308/clearlogo/61249e4ba1e82.png,MOVIE
+tt0499549,165,movie,Avatar,2009,"Action,Adventure,Fantasy",162,"Sam Worthington,Stephen Lang,Giovanni Ribisi",7.9,1405251,12,https://artworks.thetvdb.com/banners/v4/movie/165/clearlogo/61249c87cb251.png,MOVIE
+tt0209144,434,movie,Memento,2000,"Mystery,Thriller",113,"Guy Pearce,Joe Pantoliano,Mark Boone Junior",8.4,1345318,16,UNAVAILABLE,MOVIE
+tt0120338,231,movie,Titanic,1997,"Drama,Romance",194,"Leonardo DiCaprio,Billy Zane,Bill Paxton",7.9,1308501,12,https://artworks.thetvdb.com/banners/v4/movie/231/clearlogo/61249eb40c9c3.png,MOVIE
+tt4154796,148,movie,Avengers: Endgame,2019,"Action,Adventure,Drama",181,"Robert Downey Jr.,Robert Downey Jr.,Chris Evans",8.4,1304314,12,https://artworks.thetvdb.com/banners/v4/movie/148/clearlogo/612490b096176.png,MOVIE
+tt2015381,26,movie,Guardians of the Galaxy,2014,"Action,Adventure,Comedy",121,"Chris Pratt,Vin Diesel,Bradley Cooper",8.0,1292313,12,https://artworks.thetvdb.com/banners/v4/movie/26/clearlogo/612492fc63fbc.png,MOVIE
+tt0110413,234,movie,Léon: The Professional,1994,"Action,Crime,Drama",110,"Jean Reno,Gary Oldman,Danny Aiello",8.5,1269580,16,UNAVAILABLE,MOVIE
+tt4154756,8,movie,Avengers: Infinity War,2018,"Action,Adventure,Sci-Fi",149,"Robert Downey Jr.,Robert Downey Jr.,Chris Hemsworth",8.4,1238250,12,https://artworks.thetvdb.com/banners/v4/movie/8/clearlogo/612495534b98f.png,MOVIE
+tt0325980,64,movie,Pirates of the Caribbean: The Curse of the Black Pearl,2003,"Action,Adventure,Fantasy",143,"Johnny Depp,Geoffrey Rush,Orlando Bloom",8.1,1233972,12,UNAVAILABLE,MOVIE
+tt0120382,1240,movie,The Truman Show,1998,"Comedy,Drama",103,"Jim Carrey,Ed Harris,Noah Emmerich",8.2,1231119,6,https://artworks.thetvdb.com/banners/v4/movie/1240/clearlogo/617e0354b042d.png,MOVIE
+tt0169547,445,movie,American Beauty,1999,Drama,122,"Kevin Spacey,Wes Bentley,Peter Gallagher",8.3,1226531,16,https://artworks.thetvdb.com/banners/v4/movie/445/clearlogo/617a1698ace3b.png,MOVIE
+tt0910970,516,movie,WALL·E,2008,"Adventure,Animation,Family",98,"Ben Burtt,Ben Burtt,Jeff Garlin",8.4,1225331,AL,https://artworks.thetvdb.com/banners/v4/movie/516/clearlogo/6124c26eca0aa.png,MOVIE
+tt0266697,908,movie,Kill Bill: Vol. 1,2003,"Action,Crime,Thriller",111,"David Carradine,Michael Madsen,Shin'ichi Chiba",8.2,1218993,UNAVAILABLE,UNAVAILABLE,MOVIE
+tt0120586,896,movie,American History X,1998,"Crime,Drama",119,"Edward Norton,Edward Furlong,Ethan Suplee",8.5,1205056,UNAVAILABLE,UNAVAILABLE,MOVIE
+tt0103064,412,movie,Terminator 2: Judgment Day,1991,"Action,Adventure,Sci-Fi",137,"Arnold Schwarzenegger,Edward Furlong,Robert Patrick",8.6,1197957,16,UNAVAILABLE,MOVIE
+tt0434409,528,movie,V for Vendetta,2005,"Action,Drama,Sci-Fi",132,"Hugo Weaving,Hugo Weaving,Rupert Graves",8.1,1193993,UNAVAILABLE,UNAVAILABLE,MOVIE
+tt0110357,377,movie,The Lion King,1994,"Adventure,Animation,Drama",88,"Matthew Broderick,Jeremy Irons,James Earl Jones",8.5,1166682,AL,https://artworks.thetvdb.com/banners/v4/movie/377/clearlogo/6124aa4fe641c.png,MOVIE
+tt0114814,1048,movie,The Usual Suspects,1995,"Crime,Drama,Mystery",106,"Kevin Spacey,Gabriel Byrne,Chazz Palminteri",8.5,1162863,16,https://artworks.thetvdb.com/banners/v4/movie/1048/clearlogo/617e0385e5c0e.png,MOVIE
+tt1049413,315,movie,Up,2009,"Adventure,Animation,Comedy",96,"Edward Asner,Jordan Nagai,John Ratzenberger",8.3,1149077,6,https://artworks.thetvdb.com/banners/v4/movie/315/clearlogo/6124e02382b46.png,MOVIE
+tt0371746,108,movie,Iron Man,2008,"Action,Adventure,Sci-Fi",126,"Robert Downey Jr.,Terrence Howard,Jeff Bridges",7.9,1146091,12,https://artworks.thetvdb.com/banners/v4/movie/108/clearlogo/61249128beca0.png,MOVIE
+tt1392190,383,movie,Mad Max: Fury Road,2015,"Action,Adventure,Sci-Fi",120,"Tom Hardy,Nicholas Hoult,Hugh Keays-Byrne",8.1,1134280,UNAVAILABLE,https://artworks.thetvdb.com/banners/v4/movie/383/clearlogo/6124df8548acc.png,MOVIE
+tt0266543,256,movie,Finding Nemo,2003,"Adventure,Animation,Comedy",100,"Albert Brooks,Alexander Gould,Willem Dafoe",8.2,1132881,AL,https://artworks.thetvdb.com/banners/v4/movie/256/clearlogo/6124e0ff72942.png,MOVIE
+tt0264464,312,movie,Catch Me If You Can,2002,"Biography,Crime,Drama",141,"Leonardo DiCaprio,Tom Hanks,Christopher Walken",8.1,1124092,12,https://artworks.thetvdb.com/banners/v4/movie/312/clearlogo/6124c4947af1c.png,MOVIE
+tt0105236,879,movie,Reservoir Dogs,1992,"Crime,Thriller",99,"Harvey Keitel,Harvey Keitel,Tim Roth",8.3,1107835,16,https://artworks.thetvdb.com/banners/v4/movie/194601/clearlogo/6150e5ec47163.png,MOVIE
+tt0112573,703,movie,Braveheart,1995,"Biography,Drama,War",178,"Mel Gibson,Patrick McGoohan,Angus Macfadyen",8.3,1106882,16,https://artworks.thetvdb.com/banners/v4/movie/703/clearlogo/617a2096ee0fd.png,MOVIE
+tt0338013,751,movie,Eternal Sunshine of the Spotless Mind,2004,"Drama,Romance,Sci-Fi",108,"Jim Carrey,Tom Wilkinson,Gerry Robert Byrne",8.3,1099308,16,UNAVAILABLE,MOVIE
+tt0119217,949,movie,Good Will Hunting,1997,"Drama,Romance",126,"Robin Williams,Matt Damon,Ben Affleck",8.3,1097137,UNAVAILABLE,UNAVAILABLE,MOVIE
+tt0107290,867,movie,Jurassic Park,1993,"Action,Adventure,Sci-Fi",127,"Sam Neill,Jeff Goldblum,Richard Attenborough",8.2,1089362,6,https://artworks.thetvdb.com/banners/v4/movie/867/clearlogo/61249ff6c26cf.png,MOVIE
+tt0477348,207,movie,No Country for Old Men,2007,"Crime,Drama,Thriller",122,"Tommy Lee Jones,Javier Bardem,Josh Brolin",8.2,1085816,UNAVAILABLE,UNAVAILABLE,MOVIE
+tt0167404,947,movie,The Sixth Sense,1999,"Drama,Mystery,Thriller",107,"Bruce Willis,Haley Joel Osment,Trevor Morgan",8.2,1072559,UNAVAILABLE,https://artworks.thetvdb.com/banners/v4/movie/947/clearlogo/617dfc0ce842c.png,MOVIE
+tt2582802,129,movie,Whiplash,2014,"Drama,Music",106,"Miles Teller,J.K. Simmons,Paul Reiser",8.5,1023113,16,https://artworks.thetvdb.com/banners/v4/movie/129/clearlogo/6124c6e8b439e.png,MOVIE
+tt1392170,1211,movie,The Hunger Games,2012,"Action,Adventure,Sci-Fi",142,"Josh Hutcherson,Liam Hemsworth,Stanley Tucci",7.2,1020558,12,https://artworks.thetvdb.com/banners/v4/movie/1211/clearlogo/6124b06e2f5b9.png,MOVIE
+tt0268978,1472,movie,A Beautiful Mind,2001,"Biography,Drama,Mystery",135,"Russell Crowe,Ed Harris,Christopher Plummer",8.2,1001952,UNAVAILABLE,https://artworks.thetvdb.com/banners/v4/movie/1472/clearlogo/617a0dd469236.png,MOVIE
+tt0198781,331,movie,"Monsters, Inc.",2001,"Adventure,Animation,Comedy",92,"Billy Crystal,John Goodman,Steve Buscemi",8.1,1000665,AL,https://artworks.thetvdb.com/banners/v4/movie/331/clearlogo/6124c446c2fd9.png,MOVIE
+tt6751668,41517,movie,Parasite,2019,"Drama,Thriller",132,"Song Kang-ho,Lee Sun-kyun,Choi Woo-sik",8.5,999148,16,https://artworks.thetvdb.com/banners/v4/movie/41517/clearlogo/6124a27173011.png,MOVIE
+tt2488496,200722,movie,Star Wars: Episode VII - The Force Awakens,2015,"Action,Adventure,Sci-Fi",138,"John Boyega,Oscar Isaac,Domhnall Gleeson",7.8,985524,UNAVAILABLE,UNAVAILABLE,MOVIE
+tt1201607,142,movie,Harry Potter and the Deathly Hallows: Part 2,2011,"Adventure,Family,Fantasy",130,"Daniel Radcliffe,Rupert Grint,Michael Gambon",8.1,967709,12,https://artworks.thetvdb.com/banners/v4/movie/142/clearlogo/6124963d50b7d.png,MOVIE
+tt1675434,556,movie,The Intouchables,2011,"Comedy,Drama",112,"François Cluzet,Omar Sy,Cyril Mendy",8.5,948452,16,https://artworks.thetvdb.com/banners/v4/movie/556/clearlogo/6124dcfb3a696.png,MOVIE
+tt3659388,132,movie,The Martian,2015,"Adventure,Drama,Sci-Fi",144,"Matt Damon,Jeff Daniels,Michael Peña",8.0,945124,UNAVAILABLE,https://artworks.thetvdb.com/banners/v4/movie/132/clearlogo/6124c6ac69f97.png,MOVIE
+tt2395427,59,movie,Avengers: Age of Ultron,2015,"Action,Adventure,Sci-Fi",141,"Robert Downey Jr.,Robert Downey Jr.,Chris Evans",7.3,938914,12,https://artworks.thetvdb.com/banners/v4/movie/59/clearlogo/6124972e769c5.png,MOVIE
+tt0253474,1361,movie,The Pianist,2002,"Biography,Drama,Music",150,"Adrien Brody,Thomas Kretschmann,Frank Finlay",8.5,934460,16,https://artworks.thetvdb.com/banners/v4/movie/1361/clearlogo/6124b00e4cc48.png,MOVIE
+tt0208092,753,movie,Snatch,2000,"Comedy,Crime",102,"Jason Statham,Brad Pitt,Stephen Graham",8.2,925083,16,https://artworks.thetvdb.com/banners/v4/movie/753/clearlogo/6124da343b169.png,MOVIE
+tt0180093,9496,movie,Requiem for a Dream,2000,Drama,102,"Jared Leto,Marlon Wayans,Christopher McDonald",8.3,915949,16,UNAVAILABLE,MOVIE
+tt0800369,123,movie,Thor,2011,"Action,Fantasy",115,"Chris Hemsworth,Anthony Hopkins,Tom Hiddleston",7.0,914355,12,https://artworks.thetvdb.com/banners/v4/movie/123/clearlogo/612496791ca73.png,MOVIE
+tt1843866,965,movie,Captain America: The Winter Soldier,2014,"Action,Adventure,Sci-Fi",136,"Chris Evans,Chris Evans,Samuel L. Jackson",7.7,913825,12,https://artworks.thetvdb.com/banners/v4/movie/965/clearlogo/61249338cd941.png,MOVIE
+tt1300854,188,movie,Iron Man 3,2013,"Action,Adventure,Sci-Fi",130,"Robert Downey Jr.,Guy Pearce,Don Cheadle",7.1,913418,12,https://artworks.thetvdb.com/banners/v4/movie/188/clearlogo/66fcf966daeb4.png,MOVIE
+tt0458339,180,movie,Captain America: The First Avenger,2011,"Action,Adventure,Sci-Fi",124,"Chris Evans,Chris Evans,Hugo Weaving",6.9,911845,12,https://artworks.thetvdb.com/banners/v4/movie/180/clearlogo/612492c0a09bc.png,MOVIE
+tt0435761,329,movie,Toy Story 3,2010,"Adventure,Animation,Comedy",103,"Tom Hanks,Tim Allen,Ned Beatty",8.3,908227,AL,https://artworks.thetvdb.com/banners/v4/movie/329/clearlogo/66fd22b5533ca.png,MOVIE
+tt1160419,6187,movie,Dune: Part One,2021,"Action,Adventure,Drama",155,"Timothée Chalamet,Oscar Isaac,Jason Momoa",8.0,907807,12,https://artworks.thetvdb.com/banners/v4/movie/6187/clearlogo/6124ae83a026e.png,MOVIE
+tt2278388,421,movie,The Grand Budapest Hotel,2014,"Adventure,Comedy,Crime",99,"Ralph Fiennes,F. Murray Abraham,Mathieu Amalric",8.1,903138,16,UNAVAILABLE,MOVIE
+tt0145487,301,movie,Spider-Man,2002,"Action,Adventure,Sci-Fi",121,"Tobey Maguire,Tobey Maguire,Willem Dafoe",7.4,898497,12,UNAVAILABLE,MOVIE
+tt1663202,593,movie,The Revenant,2015,"Action,Adventure,Drama",156,"Leonardo DiCaprio,Tom Hardy,Will Poulter",8.0,890251,16,https://artworks.thetvdb.com/banners/v4/movie/195169/clearlogo/6150c61ebb548.png,MOVIE
+tt0903624,138,movie,The Hobbit: An Unexpected Journey,2012,"Adventure,Fantasy",169,"Martin Freeman,Ian McKellen,Richard Armitage",7.8,887004,12,https://artworks.thetvdb.com/banners/v4/movie/138/clearlogo/6124b463ab9cc.png,MOVIE
+tt1010048,1166,movie,Slumdog Millionaire,2008,"Crime,Drama,Romance",120,"Dev Patel,Saurabh Shukla,Anil Kapoor",8.0,885181,UNAVAILABLE,UNAVAILABLE,MOVIE
+tt1228705,187,movie,Iron Man 2,2010,"Action,Sci-Fi",124,"Robert Downey Jr.,Mickey Rourke,Don Cheadle",6.9,883511,12,https://artworks.thetvdb.com/banners/v4/movie/187/clearlogo/6124928483cb4.png,MOVIE
+tt0241527,66,movie,Harry Potter and the Sorcerer's Stone,2001,"Adventure,Family,Fantasy",152,"Daniel Radcliffe,Rupert Grint,Richard Harris",7.6,875099,6,https://artworks.thetvdb.com/banners/v4/movie/66/clearlogo/612491b124532.png,MOVIE
+tt0245429,276,movie,Spirited Away,2001,"Adventure,Animation,Family",124,"Miyu Irino,Takashi Naitô,Tatsuya Gashûin",8.6,874293,6,https://artworks.thetvdb.com/banners/v4/movie/276/clearlogo/6124e0c5c4dc1.png,MOVIE
+tt7131622,12999,movie,Once Upon a Time... in Hollywood,2019,"Comedy,Drama",161,"Leonardo DiCaprio,Brad Pitt,Emile Hirsch",7.6,873605,16,https://artworks.thetvdb.com/banners/v4/movie/12999/clearlogo/66bbc16306797.png,MOVIE
+tt0118715,659,movie,The Big Lebowski,1998,"Comedy,Crime",117,"Jeff Bridges,John Goodman,Steve Buscemi",8.1,873217,16,https://artworks.thetvdb.com/banners/v4/movie/659/clearlogo/617b86f576bca.png,MOVIE
+tt1454468,418,movie,Gravity,2013,"Drama,Sci-Fi,Thriller",91,"George Clooney,Ed Harris,Orto Ignatiussen",7.7,871425,UNAVAILABLE,UNAVAILABLE,MOVIE
+tt3498820,118,movie,Captain America: Civil War,2016,"Action,Sci-Fi",147,"Chris Evans,Chris Evans,Robert Downey Jr.",7.8,867574,12,https://artworks.thetvdb.com/banners/v4/movie/118/clearlogo/612496b54d20c.png,MOVIE
+tt3315342,143,movie,Logan,2017,"Action,Drama,Sci-Fi",137,"Hugh Jackman,Hugh Jackman,Patrick Stewart",8.1,863569,16,UNAVAILABLE,MOVIE
+tt1119646,1257,movie,The Hangover,2009,Comedy,100,"Zach Galifianakis,Bradley Cooper,Justin Bartha",7.7,863382,16,https://artworks.thetvdb.com/banners/v4/movie/1257/clearlogo/6124edc26b3d0.png,MOVIE
+tt0382932,534,movie,Ratatouille,2007,"Adventure,Animation,Comedy",111,"Brad Garrett,Lou Romano,Patton Oswalt",8.1,851236,AL,https://artworks.thetvdb.com/banners/v4/movie/534/clearlogo/6124f05d5ee00.png,MOVIE
+tt0947798,721,movie,Black Swan,2010,"Drama,Thriller",108,"Vincent Cassel,Vincent Cassel,Benjamin Millepied",8.0,839759,UNAVAILABLE,UNAVAILABLE,MOVIE
+tt2084970,335,movie,The Imitation Game,2014,"Biography,Drama,Thriller",114,"Benedict Cumberbatch,Matthew Goode,Allen Leech",8.0,837211,12,UNAVAILABLE,MOVIE
+tt1392214,1992,movie,Prisoners,2013,"Crime,Drama,Mystery",153,"Hugh Jackman,Jake Gyllenhaal,Terrence Howard",8.2,835074,UNAVAILABLE,UNAVAILABLE,MOVIE
+tt2096673,159,movie,Inside Out,2015,"Adventure,Animation,Comedy",95,"Bill Hader,Lewis Black,Richard Kind",8.1,834278,6,https://artworks.thetvdb.com/banners/v4/movie/159/clearlogo/6124f23bd5589.png,MOVIE
+tt0480249,587,movie,I Am Legend,2007,"Action,Drama,Horror",101,"Will Smith,Charlie Tahan,Darrell Foster",7.2,830545,12,https://artworks.thetvdb.com/banners/v4/movie/587/clearlogo/66fd16312e362.png,MOVIE
+tt0317705,263,movie,The Incredibles,2004,"Action,Adventure,Animation",115,"Craig T. Nelson,Craig T. Nelson,Samuel L. Jackson",8.0,828993,UNAVAILABLE,https://artworks.thetvdb.com/banners/v4/movie/263/clearlogo/6124f1a571499.png,MOVIE
+tt1205489,1578,movie,Gran Torino,2008,Drama,116,"Clint Eastwood,Bee Vang,Christopher Carley",8.1,824988,UNAVAILABLE,https://artworks.thetvdb.com/banners/v4/movie/1578/clearlogo/66b9da2053879.png,MOVIE
+tt1877830,15778,movie,The Batman,2022,"Action,Crime,Drama",176,"Robert Pattinson,Robert Pattinson,Jeffrey Wright",7.8,822840,12,https://artworks.thetvdb.com/banners/v4/movie/15778/clearlogo/6124eb029f328.png,MOVIE
+tt1211837,145,movie,Doctor Strange,2016,"Action,Adventure,Fantasy",115,"Benedict Cumberbatch,Chiwetel Ejiofor,Benedict Wong",7.5,822077,12,https://artworks.thetvdb.com/banners/v4/movie/145/clearlogo/612493edea507.png,MOVIE
+tt0770828,652,movie,Man of Steel,2013,"Action,Adventure,Sci-Fi",143,"Henry Cavill,Henry Cavill,Michael Shannon",7.1,821148,12,https://artworks.thetvdb.com/banners/v4/movie/652/clearlogo/612495db147e4.png,MOVIE
+tt0892769,170,movie,How to Train Your Dragon,2010,"Action,Adventure,Animation",98,"Jay Baruchel,Gerard Butler,Christopher Mintz-Plasse",8.1,817287,6,UNAVAILABLE,MOVIE
