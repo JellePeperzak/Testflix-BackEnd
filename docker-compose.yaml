@@ -21,6 +21,7 @@ services:
       - POSTGRES_DB=thesis_db
     volumes:
       - postgres_data:/var/lib/postgresql/data
+      - ./migrations:/docker-entrypoint-initdb.d
 
 volumes:
   postgres_data:
