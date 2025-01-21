@@ -1,0 +1,43 @@
+name: SSH Deploy
+on:
+  push:
+    branches:
+      - main
+jobs:
+  build:
+    name: Deploy on 188.245.255.207
+    runs-on: ubuntu-latest
+    steps:
+      - name: Pull Repo
+        uses: D3rHase/ssh-command-action@v0.2.2
+        with:
+          # hostname / IP of the server
+          host: 188.245.255.207
+          # user of the server
+          user: thesis
+          # private ssh key registered on the server
+          private_key: ${{ secrets.DEPLOY_SSH_KEY }}
+          # command to be executed
+          command: cd /opt/app/thesis-api && git pull
+      - name: Build docker
+        uses: D3rHase/ssh-command-action@v0.2.2
+        with:
+          # hostname / IP of the server
+          host: 188.245.255.207
+          # user of the server
+          user: thesis
+          # private ssh key registered on the server
+          private_key: ${{ secrets.DEPLOY_SSH_KEY }}
+          # command to be executed
+          command: cd /opt/app && docker compose build thesis-api
+      - name: Deploy (docker rollout)
+        uses: D3rHase/ssh-command-action@v0.2.2
+        with:
+          # hostname / IP of the server
+          host: 188.245.255.207
+          # user of the server
+          user: thesis
+          # private ssh key registered on the server
+          private_key: ${{ secrets.DEPLOY_SSH_KEY }}
+          # command to be executed
+          command: cd /opt/app && docker compose up -d
