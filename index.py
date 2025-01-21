@@ -24,7 +24,7 @@ app.config['SQLALCHEMY_DATABASE_URI'] = os.getenv('SQLALCHEMY_DATABASE_URI')
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = os.getenv('SQLALCHEMY_TRACK_MODIFICATIONS')
 db.init_app(app)
 
-CORS(app, origins=["http://localhost:3000"], methods=["GET", "POST"])
+CORS(app, origins=["http://localhost:3000", "https://thesis.streamwebsite.nl"], methods=["GET", "POST"])
 
 @app.route("/")
 def hello_world():
