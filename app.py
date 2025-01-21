@@ -26,6 +26,10 @@ db.init_app(app)
 
 CORS(app, origins=["http://localhost:3000"], methods=["GET", "POST"])
 
+@app.route("/")
+def hello_world():
+    return jsonify("Hello world!")
+
 # Route is called when preferences are confirmed and does four things:
 #   1. Store demographic data in the database and retrieve participant number
 #   2. Use participant number to determine condition_id, task order and algorithm order
