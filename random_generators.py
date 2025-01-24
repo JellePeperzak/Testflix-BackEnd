@@ -23,7 +23,6 @@ def generate_carousel_items_random(combinations, df_raw):
     
     # GO OVER EVERY PROVIDED COMBINATION AND GENERATE APPROPRIATE ITEM- AND CAROUSEL OBJECTS FOR THEM
     carousel_objects = []
-    carousel_rank = 1
     suggested_item_ids = set()
 
     for combination in combinations:
@@ -39,6 +38,7 @@ def generate_carousel_items_random(combinations, df_raw):
         for imdb_id in top_18_ids:
             item = df_raw[df_raw['imdb_id'] == imdb_id].iloc[0]
             carousel_items.append({
+                'imdb_id': str(item['imdb_id']),
                 'tvdb_id': str(item['tvdb_id']),
                 'item_type': item['item_type'],
                 'title': item['title'],
@@ -47,8 +47,7 @@ def generate_carousel_items_random(combinations, df_raw):
                 'runtime': str(item['runtime']),
                 'actors': item['actors'],
                 'pg_rating': item['pg_rating'],
-                'banner_url': item['banner_url'],
-                'file_id': str(item['file_id']),
+                'image_type': item['image_type'],
                 'season_count': str(item['season_count']),
             })
         print(f"Length of carousel_items list for combination ({item_type}, {genre}): {len(carousel_items)}")
@@ -56,11 +55,8 @@ def generate_carousel_items_random(combinations, df_raw):
         carousel_objects.append({
             'item_type': item_type,
             'genre': genre,
-            'rank': carousel_rank,
             'items': carousel_items
         })
-
-        carousel_rank += 1
 
     return carousel_objects
 
@@ -81,6 +77,7 @@ def generate_similarity_database_random(df_raw):
     # GENERATE ITEM OBJECT FOR EVERY IMDB_ID
     item_object_list = [
         {
+            'imdb_id': str(imdb_id),
             'tvdb_id': str(raw_data_dict[imdb_id]['tvdb_id']),
             'item_type': raw_data_dict[imdb_id]['item_type'],
             'title': raw_data_dict[imdb_id]['title'],
@@ -89,8 +86,7 @@ def generate_similarity_database_random(df_raw):
             'runtime': str(raw_data_dict[imdb_id]['runtime']),
             'actors': raw_data_dict[imdb_id]['actors'],
             'pg_rating': raw_data_dict[imdb_id]['pg_rating'],
-            'banner_url': raw_data_dict[imdb_id]['banner_url'],
-            'file_id': str(raw_data_dict[imdb_id]['file_id']),
+            'image_type': raw_data_dict[imdb_id]['image_type'],
             'season_count': str(raw_data_dict[imdb_id]['season_count']),
             'score': float(scores_dict[imdb_id])
         }

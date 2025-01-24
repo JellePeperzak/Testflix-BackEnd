@@ -4,17 +4,32 @@ raw_data_path = 'datasets/raw_data.csv'
 
 df = pd.read_csv(raw_data_path, header=0)
 
-imdb_ids = []
-
-for _, row in df.iterrows():
-    imdb_id = row['imdb_id']
-    if len(imdb_id) == 8:
-        imdb_id = imdb_id.replace('tt', 'tt0')
-    imdb_ids.append(imdb_id)
-
-df['imdb_id'] = imdb_ids
+df = df.drop(['banner_url', 'drive_url', 'file_id'], axis='columns')
 
 df.to_csv(raw_data_path, index=False)
+
+'''
+--- ASSIGN IMAGE_TYPE TO ENTRIES ---
+raw_data_path = 'datasets/raw_data.csv'
+
+df = pd.read_csv(raw_data_path, header=0)
+
+jpeg_ids = ['tt0102926', 'tt0118421', 'tt0120382', 'tt0193676', 'tt0468569', 'tt0480249', 'tt0487831', 'tt0903624', 'tt1266020', 'tt2098220']
+png_ids = ['tt0103584', 'tt0121955', 'tt0138749', 'tt0443295', 'tt0460637', 'tt0475784', 'tt0489974', 'tt1984119', 'tt5323662', 'tt5645432', 'tt5715874', 'tt5788792', 'tt5834204', 'tt6212478', 'tt8242084', 'tt12637874', 'tt13293588', 'tt14539740', 'tt21308888', 'tt23289160']
+
+file_types = []
+for _, row in df.iterrows():
+    if row['imdb_id'] in jpeg_ids:
+        file_types.append('jpeg')
+    elif row['imdb_id'] in png_ids:
+        file_types.append('png')
+    else:
+        file_types.append('jpg')
+
+df['image_type'] = file_types
+
+df.to_csv(raw_data_path, index=False)
+'''
 
 '''
 --- REMOVE EXCLUDED GENRES FROM THE DATASET ---
