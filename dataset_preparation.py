@@ -4,9 +4,10 @@ raw_data_path = 'datasets/raw_data.csv'
 
 df = pd.read_csv(raw_data_path, header=0)
 
-df = df.drop(['banner_url', 'drive_url', 'file_id'], axis='columns')
+df['image_type'] = 'webp'
+print(df['image_type'].head(5))
 
-df.to_csv(raw_data_path, index=False)
+#df.to_csv(raw_data_path, index=False)
 
 '''
 --- ASSIGN IMAGE_TYPE TO ENTRIES ---
