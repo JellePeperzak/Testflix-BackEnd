@@ -47,7 +47,6 @@ def generate_carousel_items_random(combinations, df_raw):
                 'runtime': str(item['runtime']),
                 'actors': item['actors'],
                 'pg_rating': item['pg_rating'],
-                'image_type': item['image_type'],
                 'season_count': str(item['season_count']),
             })
         print(f"Length of carousel_items list for combination ({item_type}, {genre}): {len(carousel_items)}")
@@ -86,7 +85,6 @@ def generate_similarity_database_random(df_raw):
             'runtime': str(raw_data_dict[imdb_id]['runtime']),
             'actors': raw_data_dict[imdb_id]['actors'],
             'pg_rating': raw_data_dict[imdb_id]['pg_rating'],
-            'image_type': raw_data_dict[imdb_id]['image_type'],
             'season_count': str(raw_data_dict[imdb_id]['season_count']),
             'score': float(scores_dict[imdb_id])
         }

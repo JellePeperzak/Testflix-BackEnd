@@ -4,8 +4,9 @@ raw_data_path = 'datasets/raw_data.csv'
 
 df = pd.read_csv(raw_data_path, header=0)
 
-df['image_type'] = 'webp'
-print(df['image_type'].head(5))
+df.drop('image_type', axis=1, inplace=True)
+
+df.to_csv(raw_data_path, index=False)
 
 #df.to_csv(raw_data_path, index=False)
 
