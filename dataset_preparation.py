@@ -4,9 +4,17 @@ raw_data_path = 'datasets/raw_data.csv'
 
 df = pd.read_csv(raw_data_path, header=0)
 
-df.drop('image_type', axis=1, inplace=True)
+df_movies = df[df['item_type'] == 'movie']
+df_series = df[df['item_type'] == 'series']
 
-df.to_csv(raw_data_path, index=False)
+print(len(df_movies))
+print(len(df_series))
+
+print(df['year'].min())
+
+#df.drop('image_type', axis=1, inplace=True)
+
+#df.to_csv(raw_data_path, index=False)
 
 #df.to_csv(raw_data_path, index=False)
 
