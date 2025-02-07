@@ -1,6 +1,6 @@
 import pandas as pd
 
-data_path = "data_3feb.csv"
+data_path = "data_7feb.csv"
 
 df = pd.read_csv(data_path, header=0)
 

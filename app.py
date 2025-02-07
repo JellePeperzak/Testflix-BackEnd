@@ -54,7 +54,7 @@ def generate_data():
     # Calculate condition_id
     condition_index = participant_number - 1
     print(f'Initial condition index: {condition_index}')
-    conditions = [1, 4, 8, 9, 16, 20, 29, 30, 33]
+    conditions = [16, 20, 29]
     while condition_index > 8:
         condition_index -= 9
     print(f'Condition index: {condition_index}')
