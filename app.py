@@ -52,13 +52,10 @@ def generate_data():
     # Step 2: Use participant number to determine condition_id, task order and algorithm order
     print('\n--- STEP 2 ---')
     # Calculate condition_id
-    condition_index = participant_number - 1
-    print(f'Initial condition index: {condition_index}')
-    conditions = [20, 29]
-    while condition_index > 1:
-        condition_index -= 2
-    print(f'Condition index: {condition_index}')
-    condition_id = conditions[condition_index]
+    condition_id = participant_number - 1
+    print(f"\tInitial condition_id: {condition_id}")
+    while condition_id > 35:
+        condition_id -= 36
     print(f'\tGenerated condition_id: {condition_id}')
     # Determine algorithm order
     orders = {
