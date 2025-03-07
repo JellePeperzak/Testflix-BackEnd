@@ -67,6 +67,7 @@ def generate_data():
         5: [3, 2, 1]
     }
     algorithm_number = condition_id // 6
+    print(algorithm_number)
     algorithm_order = orders[algorithm_number]
     print(f'\tGenerated algorithm_order: {algorithm_order}')
     # Determine task order
