@@ -34,6 +34,8 @@ def prepareData(raw_data_path, prepared_data_path):
     #   Recommender Evaluation
     df = addAverageColumns(df, 'eval', 3)
 
+    
+
     #   Divide participant's data over three rows, one for every task
     #relevant_columns = ['cn_avg_1', 'cn_avg_2', 'cn_avg_3', 'en_avg_1', 'en_avg_2', 'en_avg_3', 'se_avg_1', 'se_avg_2', 'se_avg_3', 'eval_avg_1', 'eval_avg_2', 'eval_avg_3',]
     df_cn = df.melt(id_vars=['id', 'first_task', 'second_task', 'third_task', 'first_algorithm', 'second_algorithm', 'third_algorithm'], value_vars=['cn_avg_1', 'cn_avg_2', 'cn_avg_3'], var_name='cn_type', value_name='cn')
